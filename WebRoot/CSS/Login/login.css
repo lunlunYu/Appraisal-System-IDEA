@@ -1,0 +1,123 @@
+	body{
+		height:100%;
+		background-image:url("../../IMAGES/background1.jpeg");
+		background-repeat:No-repeat;
+		background-size:cover;
+		background-color:#959A8F;
+	}
+	
+	.display{
+	float:left;
+	margin-top:20px;
+	margin-left:50px;
+	height:322px;
+	font:12px/180% Arial, Helvetica, sans-serif, "ÐÂËÎÌå";
+	color:#63665F;
+	}
+	.block{
+	margin:100px 0px 100px 0px;
+	height:344px;
+	background-color:rgba(149,154,143,0.7);
+	}
+	
+	.header {
+		margin:0px;
+		padding-top:10px;
+		border-bottom: 1px solid #e2e2e2;
+		height:35px;
+		position: relative;
+		background-color:#14232d8a;
+		text-align:left;
+		//font-family:Sung Song;
+		font-size:20px;
+		//color:#fff;
+		color: #fafafa;
+		letter-spacing: 0;
+		text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+	}
+	.login_block{
+		float:right;
+		margin-top:22px;
+		margin-right:200px;
+		z-index:2000;
+		height:260px;
+		width:260px;
+		background-color:#eee;
+		font-size:20px;
+		padding:20px;
+		border-radius:5px;
+		box-shadow:-10px 10px 10px #888888;
+	}
+	.login_form{
+		position:relative;
+		margin-top:3px;
+		height:220px;
+		width:262px;
+		float:left;
+		font-family: "Hiragino Sans GB", "Microsoft Yahei";
+	}
+	.input_username,.input_password{
+		margin-top:15px;
+		height:35px;
+		width:200px;
+		border:1px;
+		padding:6px;
+		border-radius:5px;
+		font-size: 20px;
+	}
+	.inpue_checkcode{
+		margin-top:15px;
+		height:25px;
+		width:80px;
+		border:1px;
+		padding:6px;
+		border-radius:5px;	
+		font-size:18px;	
+	}
+	
+	.pulldown{
+		height:35px;
+		width:211px;
+		border-radius:5px;
+		padding:6px 12px 6px 70px;
+		font-size: medium;
+	}
+	.login_button{
+		margin-top:16px;
+		margin-left:44px;
+		width:65px;
+		height:30px;
+		border-radius:16px;
+		background-color:#4DD0E1;
+		font-size:16px;
+		font-family:"Hiragino Sans GB", "Microsoft Yahei";
+		/*font-color:#ffffff;*/
+	}
+	.forgoten_link{
+		font-size:15px;
+		margin-left:80px;
+	}
+	
+	.add { 
+		position:absolute;
+		right:0px;
+		width: 80px; 
+		height: 37px; 
+		_display: inline; 
+		cursor: pointer; 
+		margin-top: 15px;
+		margin-right:6px; 
+	}
+	
+	.phoKey { 
+		background: #012246; 
+		text-align: center; 
+		line-height: 37px; 
+		color: #fff; 
+		border-radius: 3px;
+		letter-spacing: 3px; 
+    	font-size:18px;
+	}
+
+
+   
